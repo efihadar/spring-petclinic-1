@@ -341,7 +341,7 @@
                         <artifactId>maven-checkstyle-plugin</artifactId>
                         <configuration>
                           <skip>true</skip>
-                        <configuration>
+                        </configuration>
                         <versionRange>[1,)</versionRange>
                         <goals>
                           <goal>check</goal>
